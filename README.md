@@ -1,5 +1,5 @@
 # warships
-AQA Warships - Skeleton code
+// AQA Warships - Skeleton code
 
 // Skeleton Program for the AQA AS1 Summer 2016 examination
 
