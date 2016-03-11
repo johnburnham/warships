@@ -10,3 +10,6 @@ Preliminary material
 
 // Developed in a Visual Studio 2015 Community Programming environment
 
+//  Version number 1.0
+
+
