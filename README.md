@@ -12,4 +12,15 @@ Preliminary material
 
 //  Version number 1.0
 
+using System;
+using System.IO;
+
+class Program
+{
+public struct ShipType
+{
+public string Name;
+public int Size;
+}
+}
 
